@@ -1,0 +1,45 @@
+body{
+    background:black;
+    color: white;
+  }
+  #main{
+    width:80%;
+    margin:auto;
+    height:800px;
+  }
+  #title{
+    font-size:90px; 
+    text-align:center;
+    font-family: 'Lobster', cursive;
+  }
+  span{
+    color:red;
+  }
+  #image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    border-radius: 30px;
+  }
+  p{
+    margin-top:3em;
+    font-size: 20px;
+    text-align:center;
+  }
+  .comics{
+    font-family: 'Lobster', cursive; 
+    font-size:50px;
+    padding-top:20px;
+  }
+
+  li{
+    font-size: 25px;
+    color: white;
+  }
+  #tribute-link{
+    text-decoration:none;
+    color:red;
+    text-align:center;
+    font-size:25px;
+  }
